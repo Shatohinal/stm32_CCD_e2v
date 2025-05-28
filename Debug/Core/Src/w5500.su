@@ -1,0 +1,10 @@
+../Core/Src/w5500.c:44:6:w5500_ini	16	static
+../Core/Src/w5500.c:104:6:w5500_startUDP	24	static
+../Core/Src/w5500.c:128:6:TCP_Recieve	272	static
+../Core/Src/w5500.c:203:6:w5500_startTCP	16	static
+../Core/Src/w5500.c:230:6:w5500_Send_UDP	24	static
+../Core/Src/w5500.c:241:6:w5500_write_Tx_Buff	24	static
+../Core/Src/w5500.c:267:6:w5500_write_Buff	32	static
+../Core/Src/w5500.c:277:6:w5500_read_Buff	40	static
+../Core/Src/w5500.c:289:6:w5500_writeReg	24	static
+../Core/Src/w5500.c:298:9:w5500_readReg	40	static

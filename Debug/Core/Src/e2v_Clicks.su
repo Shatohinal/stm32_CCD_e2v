@@ -1,0 +1,5 @@
+../Core/Src/e2v_Clicks.c:48:6:E2V_CLICKS_Ini	4	static
+../Core/Src/e2v_Clicks.c:102:6:E2V_CLICKS_Base_R_Output_1000	4	static
+../Core/Src/e2v_Clicks.c:153:6:E2V_CLICKS_Base_R_Output_500	4	static
+../Core/Src/e2v_Clicks.c:208:6:E2V_CLICKS_Base_R_Output_250	4	static
+../Core/Src/e2v_Clicks.c:375:6:E2V_CLICKS_Base_Aqu_Output	112	static,ignoring_inline_asm
